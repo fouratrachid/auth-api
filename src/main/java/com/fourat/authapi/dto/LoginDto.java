@@ -8,4 +8,5 @@ import lombok.experimental.FieldDefaults;
 public class LoginDto {
     private String email ;
     private String password ;
+    private String userRole ;
 }
